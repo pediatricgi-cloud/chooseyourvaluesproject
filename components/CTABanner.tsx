@@ -1,7 +1,8 @@
+import type { Route } from 'next';
 import Link from 'next/link';
 
 type CTAItem = {
-  href: string;
+  href: Route;
   label: string;
 };
 
