@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Choose Your Values icon">
+  <rect width="64" height="64" fill="#0f2a43" />
+  <path d="M12 44h40v8H12z" fill="#efb821"/>
+  <path d="M12 12h40v24H12z" fill="#d4471e"/>
+  <path d="M18 18h28v4H18zm0 8h22v4H18zm0 8h26v4H18z" fill="#f8f7f2"/>
+</svg>
