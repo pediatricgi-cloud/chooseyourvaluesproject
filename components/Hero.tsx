@@ -1,10 +1,11 @@
+import type { Route } from 'next';
 import Link from 'next/link';
 
 type HeroProps = {
   title: string;
   subtitle: string;
-  primaryCta: { label: string; href: string };
-  secondaryCta: { label: string; href: string };
+  primaryCta: { label: string; href: Route };
+  secondaryCta: { label: string; href: Route };
 };
 
 export function Hero({ title, subtitle, primaryCta, secondaryCta }: HeroProps) {
