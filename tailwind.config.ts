@@ -11,10 +11,10 @@ const config: Config = {
       colors: {
         ink: '#101418',
         paper: '#f8f7f2',
-        ember: '#d4471e',
-        civic: '#0f2a43',
+        ember: '#6e8f74',
+        civic: '#5f7f68',
         gold: '#efb821',
-        sage: '#2e6b5e'
+        sage: '#9cbfa5'
       },
       boxShadow: {
         poster: '0 8px 0 0 #101418'
